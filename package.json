@@ -1,6 +1,6 @@
 {
   "name": "ts-odatajs-serbay",
-  "version": "4.0.6",
+  "version": "4.0.6-serbay-2",
   "postfix": "",
   "releaseCandidate": "",
   "title": "Olingo OData Client for TypeScript",
@@ -11,7 +11,7 @@
   "main-browser": "index-browser.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tschettler/olingo-odata4-js.git"
+    "url": "https://github.com/0x66656c6978/olingo-odata4-js.git"
   },
   "engines": {
     "node": ">= 0.12.0"
